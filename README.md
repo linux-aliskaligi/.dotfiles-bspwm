@@ -25,4 +25,4 @@ wallpaper > $HOME/Pictures
 rofi > /usr/share/rofi/themes
 
 # Kurulacak paketler
-bspwm alacritty dmenu polybar cava ncmpcpp mpd feh sxhkd picom-jonaburg-git
+bspwm alacritty dmenu polybar cava ncmpcpp mpd feh sxhkd picom-jonaburg-git picom-jonaburg-fix
