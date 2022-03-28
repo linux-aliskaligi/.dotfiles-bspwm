@@ -20,10 +20,10 @@ super + t > urxvt
 - fonts > $HOME/.fonts
 - mpd > $HOME/.mpd
 - ncmpcpp > $HOME/.ncmpcpp
-themes > $HOME/.themes
-wallpaper > $HOME/Pictures   
-rofi > /usr/share/rofi/themes
-oh my zsh > $HOME/
+- themes > $HOME/.themes
+- wallpaper > $HOME/Pictures   
+- rofi > /usr/share/rofi/themes
+- oh my zsh > $HOME/
 
 # Kurulacak paketler
 bspwm alacritty dmenu polybar cava ncmpcpp mpd feh sxhkd picom-jonaburg-git picom-jonaburg-fix
