@@ -16,14 +16,17 @@ super + enter > alacritty terminal
 super + t > urxvt
 
 # Dosya konumları
-´config > $HOME/.config´
-´fonts > $HOME/.fonts´
-´mpd > $HOME/.mpd´
-´ncmpcpp > $HOME/.ncmpcpp´
-´themes > $HOME/.themes´
-´wallpaper > $HOME/Pictures´
-´rofi > /usr/share/rofi/themes´
-´oh my zsh > $HOME/´
+config > $HOME/.config
+
+fonts > $HOME/.fonts
+
+mpd > $HOME/.mpd
+
+ncmpcpp > $HOME/.ncmpcpp
+themes > $HOME/.themes
+wallpaper > $HOME/Pictures   
+rofi > /usr/share/rofi/themes
+oh my zsh > $HOME/
 
 # Kurulacak paketler
 bspwm alacritty dmenu polybar cava ncmpcpp mpd feh sxhkd picom-jonaburg-git picom-jonaburg-fix
