@@ -16,13 +16,10 @@ super + enter > alacritty terminal
 super + t > urxvt
 
 # Dosya konumları
-config > $HOME/.config
-
-fonts > $HOME/.fonts
-
-mpd > $HOME/.mpd
-
-ncmpcpp > $HOME/.ncmpcpp
+- config > $HOME/.config
+- fonts > $HOME/.fonts
+- mpd > $HOME/.mpd
+- ncmpcpp > $HOME/.ncmpcpp
 themes > $HOME/.themes
 wallpaper > $HOME/Pictures   
 rofi > /usr/share/rofi/themes
